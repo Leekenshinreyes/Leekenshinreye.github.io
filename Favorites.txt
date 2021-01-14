@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+	*{
+	margin:0;
+	padding:10;
+	}
+	header{
+	height:60px;
+	background:#635757;
+	padding:0 60px;
+	}
+	.logo{
+	width:30%;
+	float:left;
+	color:#fff;
+	font-weight:bold;
+	text-transform:uppercase;
+	line-height:60px;
+	font-size:35px;
+	font-family:sans-serif;
+	}
+	nav{
+	width:70;
+	float:right;
+	}
+	nav ul{
+	list-style:none;
+	float:right;
+	}
+	nav ul li{
+	display: inline-block;
+	}
+	nav ul li a{
+	text-decoration: none;
+	color:#fff;
+	font-family:sans-serif;
+	font-weight:bold;
+	margin:0 10px;
+	line-height:60px;
+	text-transform:uppercase;
+	}
+	.banner img{
+	width:100%;
+	height:100vh;
+	}
+	.content{
+	padding: 3%;
+	}
+	.content p{
+	font-size:18px;
+	line-height:1.7;
+	font-family:sans-serif;
+	background:#9885A0;
+	}
+	.favorites{
+	font-size:16px;
+	line-height:1.5;
+	font-family:sans-serif;
+	margin-bottom:25px;
+	background:#D5D1D7;
+	}
+	footer{
+	background:#635757;
+	color:#fff;
+	padding:15px 50px;
+	text-align:center;
+	}
+	   
+	   @media (max-width: 600px){        
+
+	header {
+	 width: 100%;
+	 height: 100%;
+	 padding: 0;
+	 text-align: center;
+	}
+	.logo {
+	 width: 100%;
+	 float: none;
+	}
+	nav {
+	 width: 0%;
+	 float: none;
+	}
+	nav ul li {
+	 display: block;
+	}
+	   }    
+	</style>
+</head>
+<body>
+	<header>
+		<div class="logo">
+			PACHUCHAY
+		</div>
+		<nav>
+			<ul>
+				<li>
+					<a href="index.html">Home</a>
+				</li>
+				<li>
+					<a href="About.html">About</a>
+				</li>
+				<li>
+					<a href="Gallery.html">Gallery</a>
+				</li>
+				<li>
+					<a href="#">Favorites</a>
+				</li>
+			</ul>
+		</nav>
+	</header>
+	<div class="content">
+		<center><strong><em><p>
+		This page contains my favorites in any aspects of my life.
+		</p></strong></em></center>
+	</div>
+	<div class="favorites">
+	<center>
+	<br>
+	<br>
+	<br>
+	<h2>NUMBER:</H2><h3>2</h3><br>
+	<H2>COLOR:</H2><h3>Purple</h3><br>
+	<h2>FOOD:</H2><h3>Sisig</h3><br>
+	<h2>FLAVOR:</H2><h3>Cookies & Cream</h3><br>
+	<h2>SCENT:</H2><h3>Vanilla</h3><br>
+	<h2>MUSIC:</H2><h3>IU SONGS</h3><br>
+	<h2>CARTOONS:</H2><h3>Mickey Mouse</h3><br>
+	<h2>MOVIE:</H2><h3>If we were a season</h3><br>
+	<h2>Youtube Channels:</H2><h3>이지금 [IU Official], Alex Gonzaga, Park Min Young</h3><br>
+	<img src="dlwlrma.png" alt="dlwlrma" width="600" height="200"><br>
+	<img src="alexg.png" alt="alexg" width="600" height="200"><br>
+	<img src="parkmin.png" alt="parkmin" width="600" height="200"><br>
+	<br>
+	<h2>ARTISTS:</H2><h3>Lee Ji Eun & Kim  Taeyeon</h3><br>
+	<img src="IU.png" alt="IU" width="400" height="500">
+	<img src="taeyeon.jpg" alt="taeyeon" width="400" height="500">
+	<br>
+	<br>
+	<br>
+	<h2>SERIES:</H2>
+	<h3>Emergence Couple</h3><br>
+	<h3>Fight for my way</h3><br>
+	<h3>Flower Boy Next Door</h3><br>
+	<h3> Full House</h3><br>	
+	<h3>Goblin</h3><br>
+	<h3>Heartstring</h3><br>
+	<h3>High School Love On</h3><br>
+	<h3>Hwarang</h3><br>
+	<h3>I am not a Robot</h3><br>
+	<h3>K2</h3><br>
+	<h3>Legends of the Blue Sea</h3><br>
+	<h3>Let's Fight Ghost</h3><br>
+	<h3>Longing For Spring</h3><br>
+	<h3>Love in the Moonlight</h3><br>
+	<h3>Monstar</h3><br>
+	<h3>Moon Lovers</h3><br>
+	<h3>My Secret Romance</h3><br>
+	<h3>Oh my Ghost</h3><br>
+	<h3>Oh my Venus</h3><br>
+	<h3>Cinderella and Four Knight</h3><br>
+	<h3>Orang Marmalade</h3><br>
+	<h3>Page Turner</h3><br>
+	<h3>Pinocchio</h3><br>
+	<h3>Radio Romance</h3><br>
+	<h3>Remember War of Son</h3><br>
+	<h3>Sassy Go Go</h3><br>
+	<h3>School 2017</h3><br>
+	<h3>Strong Woman Do Bong Soon</h3><br>
+	<h3>The Best Hit</h3><br>
+	<h3>The Liar and His Lover</h3><br>
+	<h3>Two Worlds</h3><br>
+	<h3>Uncontrolably Fond</h3><br>
+	<h3>Weightlifting</h3><br>
+	<h3>While you were Sleeping</h3><br>
+	<h3>Who are you School 2015</h3><br>
+	<h3>7 First Kisses</h3><br>
+	<h3>Big</h3><br>
+	<h3>Bride of the Water God</h3><br>
+	<h3>Cheese in the Trap</h3><br>
+	<h3>Click Your Heart</h3><br>
+	<h3>Descendant of the Sun</h3><br>
+	<h3>Doctor Strangers</h3><br>
+	<h3>Doctors</h3><br>
+	<h3>Korean Odyssey</h3><br>
+	<h3>Dream High 1</h3><br>
+	<h3>Dream High 2</h3><br>
+	<h3>What's Wrong With Secretary Kim</h3><br>
+	<h3>Go Back Couple</h3><br>
+	<h3>Moments at 18</h3><br>
+	<h3>My Id is Gangnam Beauty</h3><br>
+	<h3>The Last Empress</h3><br>
+	<h3>Hotel De Luna</h3><br>
+	<h3>Encounter</h3><br>
+	<h3>The Producers</h3><br>
+	<h3>Melting Me Softly</h3><br>
+	<h3>My Mister</h3><br>
+	<h3>Crash Landing On You</h3><br>
+	<h3>Graceful Family</h3><br>
+	<h3>Love Alarm Season 1</h3><br>
+	<h3>She Was Pretty</h3><br>
+	<h3>My Love from the Star</h3><br>
+	<h3>My Girlfriend is a Gumiho</h3><br>
+	<h3>Kingdom Season 1</h3><br>
+	<h3>Kingdom Season 2</h3><br>
+	<h3>Angel's Last Mission</h3><br>
+	<h3>Extraordinary You</h3><br>
+	<h3>Itaewon Class</h3><br>
+	<h3>Something in the Rain</h3><br>
+	<h3>Boys Over Flowers</h3><br>
+	<h3>Playful Kiss</h3><br>
+	<h3>Secret Garden</h3><br>
+	<h3>Meteor Garden</h3><br>
+	<h3>Empress Ki</h3><br>
+	<h3>Gu Family Book</h3><br>
+	<h3>Temptation of Wife</h3><br>
+	<h3>He is Psychometric</h3><br>
+	<h3>Touch Your Heart</h3><br>
+	<h3>My Absolute Boyfriend</h3><br>
+	<h3>Her Private Life</h3><br>
+	<h3>Moon Embracing the Sun</h3><br>
+	<h3>Princess Hours</h3><br>
+	<h3>A Girl who can see smell</h3><br>
+	<h3>Persona</h3><br>
+	<h3>When the Weather is Fine</h3><br>
+	<h3>Search: www</h3><br>
+	<h3>The King: Eternal Monarch</h3><br>
+	<h3>Bel Ami</h3><br>
+	<h3>The Heirs</h3><br>
+	<h3>You're the Best Lee Soon Shin</h3><br>
+	<h3>It's Okay to Not Be Okay</h3><br>
+	<h3>Backstreet Rookie</h3><br>
+	<h3>Waikiki S1</h3><br>
+	<h3>Waikiki S2</h3><br>
+	<h3>Record of Youth</h3><br>
+	<h3>Memorist</h3><br>
+	<h3>Tempted</h3><br>
+	<h3>Start-Up</h3><br>
+	<h3>About TIme</h3><br>
+	<h4>so far....</h4><br>
+	<br>
+	<h2>BIBLE VERSE:</H2><h3>Jeremiah 29:11</h3><br>
+	<h3>“For I know the plans I have for you declares the Lord, plans to prosper you and to help you, plans to give you hope and a future.”</h3><br>
+</div>
+	<footer>
+		<p>Thank You For Visiting My Personal Website!</p>
+	</footer>
+</body>
+</html>
